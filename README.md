@@ -6,7 +6,7 @@ This Docker image contains a build of [bprodoehl's PhantomJS fork](https://githu
 
 With Docker installed, run the following to get the compiled executable in your local directory:
 
-    docker run -v $PWD:/output mazzolino/docker-phantomjs-static
+    docker run -v $PWD:/output mazzolino/phantomjs-static
 
 ## Building
 
